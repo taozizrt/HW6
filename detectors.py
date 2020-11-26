@@ -10,6 +10,7 @@ other on normally distributed values etc.  The routines should check that their
 requirements are met and raise an error otherwise.
 """
 import numpy as np
+import
 # Python 2 compatibility
 from __future__ import print_function, division
 
