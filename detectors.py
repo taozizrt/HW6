@@ -9,7 +9,7 @@ that is being worked on.  So, some detector functions will work on values > 0,
 other on normally distributed values etc.  The routines should check that their
 requirements are met and raise an error otherwise.
 """
-
+import numpy as np
 # Python 2 compatibility
 from __future__ import print_function, division
 
